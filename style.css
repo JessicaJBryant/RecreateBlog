@@ -8,7 +8,9 @@ div {
     width: 80%;
     border: 20px solid #BDC3C7;
     padding-left: 20px;
-    padding-right: 20px;  
+    padding-right: 20px;
+      /* Bonus  */
+      border-radius: 30px;
 }
 h2 {
     font-size: 48px;
